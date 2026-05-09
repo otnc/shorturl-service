@@ -16,7 +16,7 @@
 - [x] Supports parameters & hashes
 - [x] URL Shortener API
 
-*API Referenceは[こちら](https://github.com/otoneko1102/shorturl-service/blob/main/API_REFERENCE.md)。
+*API Referenceは[こちら](https://github.com/otnc/shorturl-service/blob/main/API_REFERENCE.md)。
 
 ## Setup
 
@@ -46,7 +46,7 @@
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/otoneko1102/shorturl-service.git
+git clone https://github.com/otnc/shorturl-service.git
 ```
 
 ### 2. Edit .env
